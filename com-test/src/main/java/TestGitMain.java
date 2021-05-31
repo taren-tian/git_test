@@ -8,5 +8,6 @@ public class TestGitMain {
     public static void main(String[] args) {
         System.out.println("这是第一次测试git分支");
         System.out.println("这是第二次测试feature-1分支");
+        System.out.println("这是第三次测试feature-2分支");
     }
 }
